@@ -7,6 +7,8 @@ For example, will turn [this DOT file](dot_files/Example.dot) into this:
 
 ![](example.gif)
 
+Credit to [mountainstorm](https://github.com/mountainstorm) as this is built on top of [jquery.graphviz.svg](https://github.com/mountainstorm/jquery.graphviz.svg)
+
 #### Requirements
 
 - [Python 3](https://www.python.org/downloads/)
