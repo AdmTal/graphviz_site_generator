@@ -3,7 +3,7 @@
 Convert DOT files into Interactive SVG websites.
 
 
-For example, will turn [this DOT file](dot_files/Example.dot) into this:
+For example, turn [this DOT file](dot_files/Example.dot) into this:
 
 ![](example.gif)
 
