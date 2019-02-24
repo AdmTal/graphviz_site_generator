@@ -1,0 +1,25 @@
+digraph D {
+
+  bgcolor="#2e3e56";
+  node [fizedsize=true, width="1", shape="circle", style="filled", color="#edad56", penwidth="3"];
+  edge [color="#fcfcfc", penwidth="3", fontname="helvetica Neue Ultra Light", fontcolor="white"];
+
+  A -> {B, C, D};
+
+  {B, C} -> {F};
+
+  E -> F;
+
+  F -> {G, H};
+
+  A -> I;
+
+  I -> {J, K, L};
+
+  C -> L -> {M, N, O};
+
+  L -> P;
+
+  F -> P;
+
+}
