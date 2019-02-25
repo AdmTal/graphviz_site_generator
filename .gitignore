@@ -1,2 +1,9 @@
 .idea/*
+src/.DS_Store
+dot_files/*.dot
+src/svgs/*.svg
+src/generated_html/*.html
+!dot_files/Example.dot
+!src/svgs/Example.svg
+!src/generated_html/Example.html
 
